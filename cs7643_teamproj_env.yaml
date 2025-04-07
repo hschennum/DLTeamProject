@@ -1,0 +1,8 @@
+name: cs7643_teamproj
+channels:
+  - defaults
+dependencies:
+  - python==3.12
+  - numpy
+  - pyyaml
+  - matplotlib
